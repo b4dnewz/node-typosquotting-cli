@@ -34,7 +34,6 @@
     "eslint": "^5.15.3",
     "jest": "^24.5.0",
     "lint-staged": "^8.1.5",
-    "mock-fs": "^4.8.0",
     "nixt": "^0.5.1"
   },
   "lint-staged": {
